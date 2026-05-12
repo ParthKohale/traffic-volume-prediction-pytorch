@@ -1,7 +1,7 @@
 
 # Traffic Volume Prediction with PyTorch
 
-Hi, This is Parth Kohale, the one who made the project, I have been buidling and making deep learning related stuff for more than a year now but never took the efforts to actually post these projects so here goes probably something or nothing.. Enjjoyy you day, and if you have any suggestions please go ahead and do so, i will be glad! Thank you, bye!
+Hi, This is Parth Kohale, the one who made the project, I have been buidling and making deep learning related stuff for more than a year now but never took the efforts to actually post these projects so here goes probably something or nothing.. Enjjoyy your day, and if you have any suggestions please go ahead and let me know, i will be glad! Thank you, bye!
 
 ## Overview
 
